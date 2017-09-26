@@ -1,4 +1,3 @@
-# fcc_weather_app
-Weather app made for CodeCamp's "Intermediate Front End" project.
+App that uses location to display current weather conditions.
 
-The app can be seen at the following link: https://codepen.io/vaughnanton/pen/JWgWma 
+See the demo on [codepen](https://codepen.io/vaughnanton/pen/JWgWma)
